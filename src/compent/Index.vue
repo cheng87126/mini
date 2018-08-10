@@ -104,7 +104,6 @@ export default {
 }
 </script>
 <style scoped>
-    p,
 	.uploader-box{
         margin-top: 20px;
     }
